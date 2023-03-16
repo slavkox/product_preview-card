@@ -1,0 +1,1 @@
+Producte-preview-card
